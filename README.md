@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Chatbot
 
 ## Description
@@ -18,6 +18,4 @@ A simple AI Chatbot developed using Java that responds to predefined user querie
 
 ## Author
 Reo Jerolin
-=======
-# AICHATBOT-PROJECT
->>>>>>> 599995d80f22ed90d9a715ff58a3b30cbbd1f7e3
+========
